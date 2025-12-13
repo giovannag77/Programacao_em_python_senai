@@ -1,0 +1,5 @@
+criarum sistema pra uma loja de quadrinhos que tira as coisas do sistema e coloca
+
+1 - tela inicial com usuario, cpf e senha
+2- opçoes de senha incorreta, cpf ou usuario não existente
+3 - entrada já se tiver o usuario, o cpf e a senha
